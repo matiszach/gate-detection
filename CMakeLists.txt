@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.10)
+project(gate)
+find_package(OpenCV REQUIRED)
+add_executable(gate main.cpp)
+target_link_libraries(gate ${OpenCV_LIBS})

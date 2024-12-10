@@ -1,0 +1,3 @@
+/Users/mjakub/Documents/drone-contest/gate-detection/build/CMakeFiles/gate.dir
+/Users/mjakub/Documents/drone-contest/gate-detection/build/CMakeFiles/edit_cache.dir
+/Users/mjakub/Documents/drone-contest/gate-detection/build/CMakeFiles/rebuild_cache.dir
