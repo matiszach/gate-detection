@@ -1,6 +1,6 @@
-#Gate Detection
+# Gate Detection
 
-##Usage
+## Usage
 
 ```
 cd build
